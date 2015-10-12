@@ -7,4 +7,4 @@ matrix depending on the third argument. Functions can be found in "seqUtils.py"
 
 Run example:
 
-C:\>alignment.py ACTGTGCCGA AGTCTTCCGA global -1
+C:\\>alignment.py ACTGTGCCGA AGTCTTCCGA global -1
